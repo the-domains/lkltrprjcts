@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Laura Dapito is a professional freelance graphic designer based in Englewood, New Jersey. She is the founder and creative force behind Likeletter Projects — a studio offering brand development and design services for small businesses. '
-datePublished: '2016-05-08T01:54:59.695Z'
-dateModified: '2016-05-08T01:54:18.316Z'
+datePublished: '2016-05-08T06:40:27.281Z'
+dateModified: '2016-05-08T01:55:07.333Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-laura-dapito-is-a-professional-freelance-graphic-designer-ba.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-laura-dapito-is-a-professional-freelance-graphic-designer-ba.md
 url: laura-dapito-is-a-professional-freelance-graphic-designer-ba/index.html
 _type: Article
 
