@@ -1,29 +1,41 @@
-name: 'Laura Dapito / Likeletter Projects, Inc.'
-favicon: null
-layout_spectrum: 0.4983
-typography_spectrum: 1
 title: Professional Creative Consulting
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.1875
+  brandStrength: 1
+  lightness: 0.3125
+  brandColors:
+    - '#0D1021'
+    - '#FFFFFF'
+    - '#1F669B'
+    - '#B4C9E0'
+    - '#77A5C7'
+  rhythmicContrast: 0.933357477420941
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: 'Laura Dapito / Likeletter Projects, Inc.'
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.25
-  lightness: 0.3125
-  saturation: 0.1875
-  rhythmicContrast: 0.933357477420941
-purpose: []
+typography_spectrum: 1
+layout_spectrum: 0.4983
